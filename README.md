@@ -2,7 +2,7 @@
 Im a UK based student currently learning Software development in Slough & Langley College, in Langley.
 
 I enjoy using Python to build projects, try out new ideas, and turn
-things I have learned into working scripts. My GitHub documents my
+things I have learned into working code. My GitHub documents my
 progress as I develop my programming and software development skills.
 
 ## My Interests
@@ -14,7 +14,7 @@ progress as I develop my programming and software development skills.
 
 ## My projects
 
-My repositories include projects created while i learn Python/
+My repositories include projects created while i learn Python
 I usually learn a concept through tutorials and then apply them to ideas of my own.
 
 ## What I'm Currently learning
